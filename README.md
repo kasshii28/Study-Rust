@@ -1,7 +1,5 @@
 ## Rustの勉強用リポジトリです 
 ### 1. valiables
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
+<p>
+  <a href="https://github.com/kasshii28/Study-Rust/tree/main/valiables"></a>
 </p>
