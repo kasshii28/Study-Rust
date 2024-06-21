@@ -1,0 +1,16 @@
+..user1などで、作成した構造体を書き換えたいところだけ書き換えできる。
+
+user1にemailとusernameが入っている。
+
+let user2 : User = User{
+    email: String::from("kasshii@example.com"),
+    username: String::from("nextkasshii"),
+    ..user1
+};
+
+Rustはタプルで構造体が作れる
+
+なにかの中身を見たい(表示)したいときに
+#[derive(Debug)]を使わないとCEになってしまう
+また、println!で表示するときは{}ではなく、
+{:?}とするとデバッグ表示になって見ることができる

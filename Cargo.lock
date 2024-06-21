@@ -15,5 +15,9 @@ name = "primitive_type"
 version = "0.1.0"
 
 [[package]]
+name = "struct_instance"
+version = "0.1.0"
+
+[[package]]
 name = "variables"
 version = "0.1.0"
