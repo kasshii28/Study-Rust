@@ -22,6 +22,26 @@ fn main() {
 
     let r1 = &s;
     let r2: &String = &s;
-    println!("r1: {}, r2: {}", r1, r2)
+    println!("r1: {}, r2: {}", r1, r2);
 
+    //借用不可
+    // fn main() {
+    //     let s = String::from("hello");
+    
+    //     change(&s);
+    // }
+    
+    // fn change(some_string: &String) {
+    //     some_string.push_str(", world");
+    // }
+
+    //借用可
+    let mut s = String::from("hello");
+
+    change(&mut s);
+    
+    fn change(some_string: &mut String) {
+        some_string.push_str(", world");
+    }
+    
 }
