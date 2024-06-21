@@ -8,5 +8,6 @@
 ### 2.primitive_type（データ型）
 ### 3.control_flow（制御フロー）
 ### 4.ownership（所有権）
+### 5.struct_instance（構造体について）
 
 
