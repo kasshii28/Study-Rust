@@ -1,0 +1,2 @@
+resultの返す方はT、Eでokの場合Tのジェネリクス型、Errの場合エラー型
+panicはできるだけ出さずresultを返すようにする

@@ -3,5 +3,5 @@
 members = [
     "variables",
     "primitive_type", 
-    "control_flow", "ownership", "struct_instance", "Enum", "match_iflet", "module", "collection",
+    "control_flow", "ownership", "struct_instance", "Enum", "match_iflet", "module", "collection", "error_handling", "generics",
 ]
