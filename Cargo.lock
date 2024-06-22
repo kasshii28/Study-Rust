@@ -7,11 +7,19 @@ name = "Enum"
 version = "0.1.0"
 
 [[package]]
+name = "collection"
+version = "0.1.0"
+
+[[package]]
 name = "control_flow"
 version = "0.1.0"
 
 [[package]]
 name = "match_iflet"
+version = "0.1.0"
+
+[[package]]
+name = "module"
 version = "0.1.0"
 
 [[package]]
