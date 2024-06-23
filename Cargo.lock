@@ -7,6 +7,10 @@ name = "Enum"
 version = "0.1.0"
 
 [[package]]
+name = "auto_test"
+version = "0.1.0"
+
+[[package]]
 name = "collection"
 version = "0.1.0"
 
