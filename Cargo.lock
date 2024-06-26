@@ -35,6 +35,10 @@ name = "match_iflet"
 version = "0.1.0"
 
 [[package]]
+name = "minicliapp"
+version = "0.1.0"
+
+[[package]]
 name = "module"
 version = "0.1.0"
 
